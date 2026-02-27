@@ -6,7 +6,7 @@ A unified API for web-based extended reality and immersive experiences.
 
 | Service | Description |
 |---------|-------------|
-| [rdk-framework](https://github.com/omnidotdev/rdk-framework) | Core library |
+| [rdk](https://github.com/omnidotdev/rdk) | Core library |
 | [rdk-site](https://github.com/omnidotdev/rdk-site) | Website |
 
 ## Getting Started

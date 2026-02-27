@@ -10,8 +10,8 @@
 
 services:
   # Core library
-  - rdk-framework:
-      repo: git@github.com:omnidotdev/rdk-framework#master
+  - rdk:
+      repo: git@github.com:omnidotdev/rdk#master
 
   # Website
   - rdk-site:
